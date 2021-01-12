@@ -1,0 +1,48 @@
+.slide-show{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin-top: 120px;
+}
+.bag{
+    background-color: rgb(202, 123, 202);
+}
+.shop-shoes{
+    background: blue;
+}
+.backpack{
+    border-radius: 20px;
+    height: 120px;
+    
+    
+}
+.backpack img{
+    width: 30%;
+    margin-left: 60px;
+}
+.button{
+    background-color: #ff458f;
+    width: 120px;
+    border-radius: 10px;
+    
+}
+.price{
+    color: #ff458f;
+}
+.shops{
+    margin-top: 100px;
+}
+.shoes{
+    border: none;
+}
+.shoes-footer{
+    border: none;
+    background-color: white;
+}
+#submit{
+    width: 100px;
+    border-radius: 10px;
+}
+.Subscribe{
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
